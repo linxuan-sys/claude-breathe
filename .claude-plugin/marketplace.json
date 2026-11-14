@@ -1,14 +1,14 @@
 {
   "name": "claude-breathe",
-  "owner": { "name": "Anthony" },
+  "owner": { "name": "Linxuan" },
   "metadata": { "description": "claude-breathe: breathe while Claude works" },
   "plugins": [
     {
       "name": "breathe",
       "source": "./",
-      "description": "Guided breathing exercises above the Claude Code prompt while Claude works; the spinner reads the breath",
-      "homepage": "https://github.com/halluton/Mindful-Claude",
-      "repository": "https://github.com/halluton/Mindful-Claude",
+      "description": "Guided breathing exercises above the Claude Code prompt while Claude works, with seventeen animation styles; the spinner reads the breath",
+      "homepage": "https://github.com/linxuan-sys/claude-breathe",
+      "repository": "https://github.com/linxuan-sys/claude-breathe",
       "license": "MIT"
     }
   ]
