@@ -4,7 +4,7 @@ Breathe while Claude works.
 
 Every prompt you send gives you 10 to 60+ seconds of waiting. This Claude Mod turns that time into a guided breathing exercise. When Claude starts working, a breathing animation appears above the prompt and the spinner counts the breath with you. When Claude answers, it's gone.
 
-![claude-breathe demo](demo.gif)
+![claude-breathe demo](docs/demo.gif)
 
 ## Why
 
@@ -40,6 +40,10 @@ Seventeen animation styles ship with this fork. The first four are the originals
 | `circuit` | dashed buses and nodes with pulses running along them | time + breath |
 | `snow` | flakes drifting down with a slow sideways sway | time + breath |
 | `melody` | notes flowing along three staff lines | time + breath |
+
+`melody` in the band above the prompt:
+
+![melody above the prompt](docs/melody.gif)
 
 `/breathe style random` picks one per turn and never repeats the one just shown.
 
